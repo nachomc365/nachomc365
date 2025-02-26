@@ -1,3 +1,3 @@
-# hello, i´m <font color="blue">Ignacio Moreno.</font>
+<font color="blue"># hello, i´m Ignacio Moreno.</font>
 
 Full-Stack Developer and junior with full energy
